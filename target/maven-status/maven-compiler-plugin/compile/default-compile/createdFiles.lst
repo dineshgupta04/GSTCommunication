@@ -1,0 +1,8 @@
+com/communication/GSTCommunication/beans/MailDeliveryStatus.class
+com/communication/GSTCommunication/GSTCommunicationApplication.class
+com/communication/GSTCommunication/api/SendMail.class
+com/communication/GSTCommunication/beans/MailDetails.class
+com/communication/GSTCommunication/utils/Constants.class
+com/communication/GSTCommunication/utils/AerospikeManager.class
+com/communication/GSTCommunication/beans/AerospikeMailContent.class
+com/communication/GSTCommunication/GSTCommunicationConfiguration.class

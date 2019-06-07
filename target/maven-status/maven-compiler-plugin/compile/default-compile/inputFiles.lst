@@ -1,0 +1,8 @@
+/home/dineshchandragupta/clearTax/GSTCommunication/src/main/java/com/communication/GSTCommunication/api/SendMail.java
+/home/dineshchandragupta/clearTax/GSTCommunication/src/main/java/com/communication/GSTCommunication/beans/AerospikeMailContent.java
+/home/dineshchandragupta/clearTax/GSTCommunication/src/main/java/com/communication/GSTCommunication/GSTCommunicationConfiguration.java
+/home/dineshchandragupta/clearTax/GSTCommunication/src/main/java/com/communication/GSTCommunication/utils/AerospikeManager.java
+/home/dineshchandragupta/clearTax/GSTCommunication/src/main/java/com/communication/GSTCommunication/beans/MailDeliveryStatus.java
+/home/dineshchandragupta/clearTax/GSTCommunication/src/main/java/com/communication/GSTCommunication/beans/MailDetails.java
+/home/dineshchandragupta/clearTax/GSTCommunication/src/main/java/com/communication/GSTCommunication/GSTCommunicationApplication.java
+/home/dineshchandragupta/clearTax/GSTCommunication/src/main/java/com/communication/GSTCommunication/utils/Constants.java
